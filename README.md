@@ -3,7 +3,7 @@
 The entire process is orchestrated and run in *Docker*
 
 ### Technologies used
-> [Docker, Docker-compose, python, pandas, posgresql]
+> Docker, Docker-compose, python, pandas, posgresql
 1. PostgreSQL database  
     - Via the _official Postgres Docker image_
 2. Python
